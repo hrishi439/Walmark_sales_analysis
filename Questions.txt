@@ -1,0 +1,32 @@
+WALMART SALES DATA ANALYSIS – SQL QUESTIONS
+==========================================
+
+1. How many total records are present in the Walmart sales dataset?
+
+2. What is the total revenue generated across all stores?
+
+3. What is the highest weekly sales value recorded?
+
+4. Which store has generated the highest total sales?
+
+5. What is the total sales amount for each store?
+
+6. What are the total sales figures year-wise?
+
+7. How do sales trends vary on a monthly basis across different years?
+
+8. What is the average weekly sales value for each store?
+
+9. How do total sales compare between holiday weeks and non-holiday weeks?
+
+10. What are the total holiday sales for each store?
+
+11. What percentage of total sales does each store contribute?
+
+12. How do cumulative sales change over time?
+
+13. How are stores ranked based on their total sales performance?
+
+14. Which are the top 5 stores based on average weekly sales?
+
+15. What is the impact of unemployment rate on average weekly sales?
