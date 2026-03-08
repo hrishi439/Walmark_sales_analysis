@@ -1,4 +1,6 @@
+Dataset: https://github.com/hrishi439/Walmark_sales_analysis/blob/main/Walmart%20Sale%20Dataset.csv
 
+	
 /* Create Database */
 create database walmart_sales
 use walmart_sales
@@ -76,6 +78,7 @@ FROM walmart GROUP BY Store ORDER BY avg_sales DESC
 /* 15. Impact of unemployment on sales */
 SELECT Unemployment,AVG(Weekly_Sales) AS avg_sales FROM walmart 
 GROUP BY Unemployment ORDER BY Unemployment
+
 
 
 
